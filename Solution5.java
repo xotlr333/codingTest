@@ -1,9 +1,13 @@
-import java.net.Inet4Address;
 import java.util.*;
 import java.io.*;
 
+/**
+ * 백준
+ * 수열의 합
+ * https://www.acmicpc.net/problem/1024
+ */
 
-public class Main {
+public class Solution5 {
 
     static int N;
     static int L;
@@ -65,17 +69,3 @@ public class Main {
 
 
 }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
