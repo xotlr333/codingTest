@@ -1,7 +1,13 @@
 import java.util.*;
 import java.io.*;
 
-public class Main {
+/**
+ * 백준
+ * 게임
+ * https://www.acmicpc.net/problem/1072
+ */
+
+public class Solution6 {
 
     public static void main(String args[]) {
         Scanner sc = new Scanner(System.in);
