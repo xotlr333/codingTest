@@ -2,7 +2,13 @@ import java.util.*;
 import java.io.*;
 import java.util.regex.Pattern;
 
-public class Main {
+
+/**
+ * 백준
+ * Contact
+ * https://www.acmicpc.net/problem/1013
+ */
+public class Solution7 {
 
     public static void main(String args[]) {
         Scanner sc = new Scanner(System.in);
