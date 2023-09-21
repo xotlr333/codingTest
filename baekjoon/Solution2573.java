@@ -5,7 +5,7 @@ import java.io.*;
 
 /**
  * 백준
- * 빙상
+ * 빙산
  * https://www.acmicpc.net/problem/2573
  * 메모리 초과
  */
